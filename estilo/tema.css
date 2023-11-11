@@ -1,9 +1,23 @@
 body{
     color: black;
-   background-color: aquamarine;
+   background-color: antiquewhite;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .container {
 padding: 0px 50px;
+}
+
+nav {
+    background-color: blue;
+    border-radius: 10px 10px 10px 10px;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 2px rgb(149, 148, 148)
+}
+
+nav h1 {
+
 }
